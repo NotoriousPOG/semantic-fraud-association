@@ -1,0 +1,4 @@
+interface:
+  display_name: "Semantic Fraud Association"
+  short_description: "Investigate payment fraud and design SIEM escalation"
+  default_prompt: "Use $semantic-fraud-association to correlate these payments and IP locations, test legitimate explanations, and design evidence-backed SIEM escalation rules using Stripe documentation."
